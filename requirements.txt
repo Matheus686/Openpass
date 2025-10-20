@@ -1,0 +1,5 @@
+pandas
+plotly
+gradio
+openpyxl
+scikit-learn
